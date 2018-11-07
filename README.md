@@ -8,4 +8,4 @@ This repository contains all work by me realted to playing .nbs files on opencom
 
 `songs/` contains some example songs (sourced from multiple places)
 
-All **PROGRAMS** published in this repository are released to the public domains.
+All **PROGRAMS** published in this repository are released to the public domain.
